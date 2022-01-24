@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firyafaturahman
 - 👀 I’m interested in Front End and Mobile App Development
-- 🌱 I’m currently learning Vue and Flutter
+- 🌱 I’m currently learning Dart and Flutter
 
 <!---
 firyafaturahman/firyafaturahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
